@@ -1,0 +1,17 @@
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\bin\Debug\prjPolarisRecruitment.exe.config
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.vbprojResolveAssemblyReference.cache
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmCustomers.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmStaff.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.Resources.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.vbproj.GenerateResource.Cache
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.xml
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\bin\Debug\prjPolarisRecruitment.exe
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\bin\Debug\prjPolarisRecruitment.pdb
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\bin\Debug\prjPolarisRecruitment.xml
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmCourses.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmCustomerJobs.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmEmployers.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmLocalJobs.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.frmOffice.resources
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.exe
+E:\Software Engineering Level 6\Relational Database\prjPolarisRecruitment\prjPolarisRecruitment\obj\Debug\prjPolarisRecruitment.pdb
